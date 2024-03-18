@@ -73,6 +73,7 @@ class Program
 // Define a class to represent a track
 class Track
 {
+    //Weight
     public int Weight { get; set; }
     public string Destination { get; set; }
 
